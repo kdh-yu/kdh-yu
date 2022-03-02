@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<h3> My Pages </h3>
-<a href="https://github.com/tt-adisoh" target="_blank"><img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.notion.so/ttadisoh/" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff.svg?&style=for-the-badge&logo=notion&logoColor=black"/></a>
-<a href="https://www.instagram.com/kdh.yu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <h3> My Pages </h3>
+  <a href="https://github.com/tt-adisoh" target="_blank"><img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href="https://www.notion.so/ttadisoh/" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff.svg?&style=for-the-badge&logo=notion&logoColor=black"/></a>
+  <a href="https://www.instagram.com/kdh.yu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
