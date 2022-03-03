@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 </p>
 
 <style type="text/css">
-  @font-face{
+  @font-face {
   font-family: "Myraid";
-  src: url("https://github.com/fontfen/myriad-pro/blob/master/MyriadPro-Regular.ttf")}
-  
-  body{
+  src: url("https://github.com/fontfen/myriad-pro/blob/master/MyriadPro-Regular.ttf")
+  }
+  body {
     font-family: "Myraid";
 }
   </style>
