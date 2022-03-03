@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/kdh.yu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<style>
+<style type="text/css">
   @font-face{
   font-family: "Myraid";
   src: url("https://github.com/fontfen/myriad-pro/blob/master/MyriadPro-Regular.ttf")}
