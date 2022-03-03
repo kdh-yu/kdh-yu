@@ -38,6 +38,4 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/kdh.yu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tt-adisoh&show_icons=true&theme=radical)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tt-adisoh&show_icons=true&theme=radical)
