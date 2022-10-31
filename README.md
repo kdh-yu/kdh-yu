@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h3 align="center">📎 My Career 📎</h3>
 <p align="center">
   (2022.03.~ ) Hanyang Univ, Dept. of Data science 3rd<br>
-  (2020.11.) 2nd Prize at 2020 Data Creator Camp, by K-ICT Data Center
+  (2020.11.) 2nd Prize at 2020 Data Creator Camp, by K-ICT Data Center<br>
   (2020.7) Passed preliminary contest at Smarteen app challenge  
   <br>(2019.03. ~ 2022.02.) DSHS 47th
 </p>
