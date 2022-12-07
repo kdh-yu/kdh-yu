@@ -4,18 +4,16 @@
 
 <h3 align="center">🛠 <b>Techs</b> 🛠</h3>
 <p align="center">
-<picture>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JS-ffb13b?style=flat-square&logo=javascript&logoColor=white">
+  <picture><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+  <picture><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></picture><br>
+  <picture><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/JS-ffb13b?style=flat-square&logo=javascript&logoColor=white"></picture>
   <br>
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
-  </picture>
+  <picture><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"></picture>
+  <picture><img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"></picture>
 </p>
 
 <br>
@@ -39,14 +37,11 @@
 </div>
 
 <br>
-<div align="center">
+<p align="center">
 <a href="https://solved.ac/profile/kdhyu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu"></a>
-<picture>
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true)
-
+<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true">
 </picture>
-</div>
+</p>
 
 <p align="center"><picture>
 
