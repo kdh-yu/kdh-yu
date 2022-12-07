@@ -55,10 +55,14 @@ Here are some ideas to get you started:
 </div>
 
 <div style="float: right; width: 50%;">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact">
 </div>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu">
 </p>
+<!--
+|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu)](https://solved.ac/kdhyu/)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact)|
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
