@@ -50,22 +50,20 @@ Here are some ideas to get you started:
   <br>(2019.03. ~ 2022.02.) DSHS 47th
 </p>
 
-<p align="center">
 <center>
-
-<div style="border: 1px; float: left; width: 50%;">
+<div style="float: left; width: 50%;">
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu)](https://solved.ac/kdhyu/)
   
 </div>
 
-<div style="border: 1px; float: right; width: 50%;">
+<div style="float: right; width: 50%;">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact)
 
 </div>
 
+
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu)](https://github.com/anuraghazra/github-readme-stats)
 
 </center>
-</p>
