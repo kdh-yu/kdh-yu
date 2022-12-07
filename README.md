@@ -50,5 +50,11 @@ Here are some ideas to get you started:
   <br>(2019.03. ~ 2022.02.) DSHS 47th
 </p>
 
+<p align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu)](https://solved.ac/kdhyu/)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu)](https://github.com/anuraghazra/github-readme-stats)
+</p>
