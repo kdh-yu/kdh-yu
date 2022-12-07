@@ -41,10 +41,16 @@
 <br>
 <div align="center">
 <a href="https://solved.ac/profile/kdhyu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu"></a>
-<picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true" href="https://github.com/tt-adisoh"></picture>
+<picture>
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true)
+
+</picture>
 </div>
 
 <p align="center"><picture>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true" onclick="return false">
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true)
+
 </picture>
 </p>
