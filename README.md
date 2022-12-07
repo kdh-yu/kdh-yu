@@ -49,3 +49,5 @@ Here are some ideas to get you started:
   (2020.7) Passed preliminary contest at Smarteen app challenge  
   <br>(2019.03. ~ 2022.02.) DSHS 47th
 </p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu)](https://solved.ac/kdhyu/)
