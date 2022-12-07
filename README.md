@@ -50,6 +50,9 @@ Here are some ideas to get you started:
   <br>(2019.03. ~ 2022.02.) DSHS 47th
 </p>
   
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu">
+
 |||
 |:---:|:---:|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu)](https://solved.ac/kdhyu/)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact)|
