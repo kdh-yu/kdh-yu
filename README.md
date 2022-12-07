@@ -50,11 +50,8 @@ Here are some ideas to get you started:
   <br>(2019.03. ~ 2022.02.) DSHS 47th
 </p>
   
-<div style="float: left; width: 50%;">
+<div>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu">
-</div>
-
-<div style="float: right; width: 50%;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact">
 </div>
 
