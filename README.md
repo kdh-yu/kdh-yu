@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true">
-
+<picture>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true">
+<picture>
 
 
 🛠 <b>Techs</b> 🛠
@@ -19,8 +20,12 @@
 <br>
 <h3>📃 <b>Pages</b> 📃</h3>
 
-<a href="https://github.com/tt-adisoh" target="_blank"><img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.instagram.com/kdh.yu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/tt-adisoh" target="_blank">
+    <img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/kdh.yu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <br>
 
@@ -34,14 +39,18 @@
 |2019.03. ~ 2022.02.| Graduated [DSHS](https://www.dshs.kr/) 47th|
 
 <br>
-<div style="float:left;width:50%">
-<a href="https://solved.ac/profile/kdhyu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu"></a>
-</div>
-<div style="float:right;width:50%">
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true"></a>
+<div align="center">
+    <a href="https://solved.ac/profile/kdhyu">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu">
+    </a>
+    <picure>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true">
+    </picture>
 </div>
 
 
-<a>![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true)</a>
+<picture>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true">
+</picture>
 
 </div>
