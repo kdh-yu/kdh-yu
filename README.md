@@ -1,6 +1,6 @@
 <div align="center">
 
-![Title](`https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true`)
+![Title](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true)
 
 
 🛠 <b>Techs</b> 🛠
@@ -34,8 +34,8 @@
 
 <br>
 
-[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu)](https://solved.ac/profile/kdhyu) ![Stats](`https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true`)
+[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu)](https://solved.ac/profile/kdhyu)![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true)
 
-![Wakatime](`https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true`)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true)
 
 </div>
