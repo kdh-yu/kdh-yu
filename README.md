@@ -1,8 +1,6 @@
 <div align="center">
 
-<picture>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true">
-</picture>
+[![Main](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true)](#)
 
 
 🛠 <b>Techs</b> 🛠
@@ -40,17 +38,16 @@
 
 <br>
 <div align="center">
-    <a href="https://solved.ac/profile/kdhyu">
+    <a href="https://solved.ac/profile/kdhyu" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu">
     </a>
     <picure>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true">
     </picture>
+    <br>
+    <picture>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true">
+    </picture>
+
 </div>
-
-
-<picture>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true">
-</picture>
-
 </div>
