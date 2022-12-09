@@ -2,7 +2,7 @@
 
 <picture>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true">
-<picture>
+</picture>
 
 
 🛠 <b>Techs</b> 🛠
