@@ -42,11 +42,11 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu">
     </a>
     <picure>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true">
+        <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true"></a>
     </picture>
     <br>
     <picture>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true">
+        <a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true"></a>
     </picture>
 
 </div>
