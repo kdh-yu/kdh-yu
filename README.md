@@ -18,7 +18,7 @@
 <br>
 <h3>📃 <b>Pages</b> 📃</h3>
 
-<a href="https://github.com/tt-adisoh" target="_blank">
+<a href="#"></a>
     <img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/kdh.yu/" target="_blank">
@@ -38,16 +38,15 @@
 
 <br>
 <div align="center">
-    <a href="https://solved.ac/profile/kdhyu" target="_blank">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu">
+    <a href="https://solved.ac/profile/kdhyu" target='_blank'>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu"/>
     </a>
-    <picure>
-        <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true"></a>
-    </picture>
-    <br>
-    <picture>
-        <a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true"></a>
-    </picture>
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true"/>
+    </a>
+    <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true"/>
+    </a>
 
 </div>
 </div>
