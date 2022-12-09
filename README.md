@@ -1,6 +1,7 @@
 <div align="center">
 
-<a>![Title](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true)</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true">
+
 
 
 🛠 <b>Techs</b> 🛠
@@ -33,8 +34,13 @@
 |2019.03. ~ 2022.02.| Graduated [DSHS](https://www.dshs.kr/) 47th|
 
 <br>
+<div style="float:left;width:50%">
+<a href="https://solved.ac/profile/kdhyu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu"></a>
+</div>
+<div style="float:right;width:50%">
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true"></a>
+</div>
 
-[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu)](https://solved.ac/profile/kdhyu)<a>![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true)</a>
 
 <a>![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true)</a>
 
