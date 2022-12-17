@@ -34,7 +34,7 @@
 |2022.03.~| [Hanyang Univ](https://www.hanyang.ac.kr/), [Dept. of Data science](https://hyds.hanyang.ac.kr/) 3rd|
 |2020.11.| 2nd Prize at 2020 Data Creator Camp, by K-ICT Data Center|
 |2020.7| Passed preliminary contest at 2020 Smarteen app challenge|
-|2019.03. ~ 2022.02.| Graduated [DSHS](https://www.dshs.kr/) 47th|
+|2019.03. ~ 2022.02.| [DSHS](https://www.dshs.kr/) 47th|
 
 <br>
 <div align="center">
@@ -42,7 +42,7 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu"/>
     </a>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tt-adisoh&layout=compact&show_icons=true&theme=material-palenight&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh-yu&layout=compact&show_icons=true&theme=material-palenight&hide_border=true"/>
     </a>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true"/>
