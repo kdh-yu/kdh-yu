@@ -24,17 +24,9 @@
 <a href="https://www.instagram.com/kdh.yu/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<br>
-
-<h3 align="center">📎 <b>My Career</b> 📎</h3>
-
-|Period|Title|
-|----|----|
-|2022.03.~| [Hanyang Univ](https://www.hanyang.ac.kr/), [Dept. of Data science](https://hyds.hanyang.ac.kr/) 3rd|
-|2020.11.| 2nd Prize at 2020 Data Creator Camp, by K-ICT Data Center|
-|2020.7| Passed preliminary contest at 2020 Smarteen app challenge|
-|2019.03. ~ 2022.02.| [DSHS](https://www.dshs.kr/) 47th|
+<a href="https://kdhyu.tistory.com/2" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-FFFFFF.svg?&style=for-the-badge&logo=Tistory&logoColor=black"/>
+</a>
 
 <br>
 <div align="center">
