@@ -8,12 +8,8 @@
 [![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://devdocs.io/c/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)<br>
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://www.w3schools.com/TAGS/default.asp)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white")](https://www.w3schools.com/css/default.asp)
-[![JS](https://img.shields.io/badge/JS-ffb13b?style=flat-square&logo=javascript&logoColor=white)](https://www.w3schools.com/js/default.asp)<br>
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](https://www.tensorflow.org/?hl=ko)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
-[![MySQL](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white)](https://www.mysql.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 <br>
 <h3>📃 <b>Pages</b> 📃</h3>
@@ -24,8 +20,8 @@
 <a href="https://www.instagram.com/kdh.yu/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://kdhyu.tistory.com/2" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FFFFFF.svg?&style=for-the-badge&logo=Tistory&logoColor=black"/>
+<a href="https://velog.io/@kdh-yu/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
 
 <br><br>
