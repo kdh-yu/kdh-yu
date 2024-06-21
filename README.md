@@ -3,10 +3,10 @@
 [![Main](https://capsule-render.vercel.app/api?type=venom&height=300&text=Kim_%20Dohoon&textBg=false&fontAlign=50&animation=scaleIn&strokeWidth=0&fontColor=7FAAFF&theme=tokyonight)](#)
 
 <a href="https://kdh-yu.github.io/">
-    <img src="https://img.shields.io/badge/CV-BBDDE5?style=flat-square&logo=GitBook&logoColor=blue" width="60" height="auto"/>
+    <img src="https://img.shields.io/badge/CV-BBDDE5?style=for-the-badge&logo=GitBook&logoColor=blue" width="60" height="auto"/>
 </a>
 
-<br>
+<br><br>
 
 🛠 <b>Techs & Skills</b> 🛠
 
