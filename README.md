@@ -1,14 +1,17 @@
 <div align="center">
 
-[![Main](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=%20%20%23Kim_Dohoon%20%20&fontAlign=50&fontSize=50&textBg=true)](#)
+[![Main](https://capsule-render.vercel.app/api?type=venom&height=300&text=Kim_%20Dohoon&textBg=false&fontAlign=50&animation=scaleIn&strokeWidth=0&fontColor=7FAAFF&theme=tokyonight)](#)
 
+<a href="https://kdh-yu.github.io/">
+    <img src="https://img.shields.io/badge/CV-BBDDE5?style=flat-square&logo=GitBook&logoColor=blue" width="60" height="auto"/>
+</a>
 
-🛠 <b>Techs</b> 🛠
+<br>
+
+🛠 <b>Techs & Skills</b> 🛠
 
 [![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://devdocs.io/c/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)<br>
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](https://www.tensorflow.org/?hl=ko)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 <br>
@@ -32,9 +35,5 @@
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh-yu&layout=compact&show_icons=true&theme=material-palenight&hide_border=true"/>
     </a>
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kdhyu&theme=material-palenight&hide_border=true"/>
-    </a>
-
 </div>
 </div>
