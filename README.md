@@ -10,8 +10,8 @@
 
 🛠 <b>Techs & Skills</b> 🛠
 
-[![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=ffdd54)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
+[![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=ffdd54)](https://www.python.org/)  
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)  
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 <br>
@@ -33,7 +33,5 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu"/>
     </a>
 </div>
-
-[![Github Activityh](https://github-readme-activity-graph.vercel.app/graph?username=kdh-yu&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
