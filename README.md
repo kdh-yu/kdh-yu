@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Main](https://capsule-render.vercel.app/api?type=waving&height=150&text=Kim_%20Dohoon&textBg=false&fontAlign=50&strokeWidth=0&fontColor=7FAAFF&theme=tokyonight&fontSize=40&fontAlignY=30)](#)
+[![Main](https://capsule-render.vercel.app/api?type=waving&height=150&text=Kim_%20Dohoon&textBg=false&fontAlign=50&fontColor=7FAAFF&theme=tokyonight&fontSize=40&fontAlignY=30)](#)
 
 <h3>🛠 <b>Techs & Skills</b> 🛠 </h3>
 
@@ -15,8 +15,8 @@
 <div>
 
 [![Main](https://img.shields.io/badge/Main_Page-F6F3ED.svg?&style=for-the-badge&logo=Read.cv&logoColor=111111)](https://kdh-yu.github.io/) 
-[![PyTorch](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kdh-yu/)
-[![PyTorch](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@kdh-yu/)
+[![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kdh-yu/)
+[![Tistory](https://img.shields.io/badge/Tistory-F2F3F4.svg?&style=for-the-badge&logo=tistory&logoColor=000000)](https://kdhyu.tistory.com/)
 
 <br><br>
 <div align="center">
