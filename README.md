@@ -18,11 +18,13 @@
 [![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kdh-yu/)
 [![Tistory](https://img.shields.io/badge/Tistory-F2F3F4.svg?&style=for-the-badge&logo=tistory&logoColor=000000)](https://kdhyu.tistory.com/)
 
+<!--
 <br><br>
 <div align="center">
     <a href="https://solved.ac/profile/kdhyu" target='_blank'>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu"/>
     </a>
 </div>
+-->
 
 </div>
