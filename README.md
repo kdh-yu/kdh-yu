@@ -1,30 +1,21 @@
-<div align="center">
+## Kim Dohoon
 
-[![Main](https://capsule-render.vercel.app/api?type=waving&height=150&text=Kim_%20Dohoon&textBg=false&fontAlign=50&fontColor=7FAAFF&theme=tokyonight&fontSize=40&fontAlignY=30)](#)
+### 📚 Education
 
-<h3>🛠 <b>Techs & Skills</b> 🛠 </h3>
+* **Combined M.S. & Ph.D.**
+  Graduate School of Data Science, Seoul National University (2026.03 – )
+  Advisor: *Prof. Jay-Yoon Lee*
 
-[![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=ffdd54)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-3274A4?style=flat-square&logo=C%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![Matlab](https://img.shields.io/badge/MATLAB-00599C?style=flat-square&logoColor=white)](https://www.mathworks.com/)
+* **B.S.** Data Science & Biomedical Engineering
+  Hanyang University, Seoul (2022.03 – 2026.02)
 
-<br>
-<h3>📃 <b>Pages</b> 📃</h3>
+### 🧠 Research Interests
 
-<div>
+* Multimodal Learning & MLLMs
+* Biomedical Applications of AI
 
-[![Main](https://img.shields.io/badge/Main_Page-F6F3ED.svg?&style=for-the-badge&logo=Read.cv&logoColor=111111)](https://kdh-yu.github.io/) 
-[![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kdh-yu/)
-[![Tistory](https://img.shields.io/badge/Tistory-F2F3F4.svg?&style=for-the-badge&logo=tistory&logoColor=000000)](https://kdhyu.tistory.com/)
+### 🔗 Links
 
-<!--
-<br><br>
-<div align="center">
-    <a href="https://solved.ac/profile/kdhyu" target='_blank'>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhyu"/>
-    </a>
-</div>
--->
-
-</div>
+* 🌐 Personal Page: [https://kdh-yu.github.io/](https://kdh-yu.github.io/)
+* 💻 GitHub: [https://github.com/kdh-yu/](https://github.com/kdh-yu/)
+* ✍️ Blog (Tistory): [https://kdhyu.tistory.com/](https://kdhyu.tistory.com/)
