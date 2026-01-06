@@ -6,6 +6,6 @@
 
 ### 🔗 Links
 
-* 🌐 Personal Page: [https://kdh-yu.github.io/](https://kdh-yu.github.io/)
-* 💻 GitHub: [https://github.com/kdh-yu/](https://github.com/kdh-yu/)
-* ✍️ Blog (Tistory): [https://kdhyu.tistory.com/](https://kdhyu.tistory.com/)
+* 🌐 Personal Page: [https://kimdhn.github.io/](https://kimdhn.github.io/)
+* 💻 GitHub: [https://github.com/kimdhn/](https://github.com/kimdhn/)
+* ✍️ Blog (Tistory): [https://kimdhn.tistory.com/](https://kimdhn.tistory.com/)
